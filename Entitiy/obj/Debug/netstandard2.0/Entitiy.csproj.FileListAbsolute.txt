@@ -1,0 +1,7 @@
+H:\projem\ReCapProject\Entitiy\bin\Debug\netstandard2.0\Entitiy.deps.json
+H:\projem\ReCapProject\Entitiy\bin\Debug\netstandard2.0\Entitiy.dll
+H:\projem\ReCapProject\Entitiy\bin\Debug\netstandard2.0\Entitiy.pdb
+H:\projem\ReCapProject\Entitiy\obj\Debug\netstandard2.0\Entitiy.AssemblyInfoInputs.cache
+H:\projem\ReCapProject\Entitiy\obj\Debug\netstandard2.0\Entitiy.AssemblyInfo.cs
+H:\projem\ReCapProject\Entitiy\obj\Debug\netstandard2.0\Entitiy.dll
+H:\projem\ReCapProject\Entitiy\obj\Debug\netstandard2.0\Entitiy.pdb
